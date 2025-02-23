@@ -20,13 +20,13 @@
     "@fluent/dom": "^0.8.1",
     "@storybook/addon-a11y": "^7.6.4",
     "@storybook/addon-actions": "^7.6.4",
-    "@storybook/addon-essentials": "^7.6.4",
+    "@storybook/addon-essentials": "^8.5.8",
     "@storybook/addon-links": "^7.6.4",
-    "@storybook/web-components": "^7.6.4",
-    "@storybook/web-components-webpack5": "^7.6.4",
+    "@storybook/web-components": "^8.5.8",
+    "@storybook/web-components-webpack5": "^8.5.8",
     "babel-loader": "^8.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "storybook": "^7.6.4"
+    "storybook": "^8.5.8"
   }
 }

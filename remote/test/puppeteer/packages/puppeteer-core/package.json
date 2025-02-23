@@ -125,13 +125,13 @@
     "debug": "^4.3.6",
     "devtools-protocol": "0.0.1312386",
     "typed-query-selector": "^2.12.0",
-    "ws": "^8.18.0"
+    "ws": "^8.18.1"
   },
   "devDependencies": {
     "@types/chrome": "0.0.269",
     "@types/debug": "4.1.12",
     "@types/node": "18.17.15",
-    "@types/ws": "8.5.11",
+    "@types/ws": "8.5.14",
     "mitt": "3.0.1",
     "parsel-js": "1.1.2",
     "rxjs": "7.8.1"
